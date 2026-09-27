@@ -1,0 +1,9 @@
+Raw rows: 12528
+Canonical ticket IDs: 11875
+Duplicate rows removed: 653
+Resolved/closed tickets: 11266
+Manual proxy check sample: 200
+Digest category agreement with source field: 200/200
+Independent text-tag agreement with source field: 117/200
+Text-tag error rate: 41.5%
+Known error pattern: text tagging struggles with multi-issue and vague messages; the digest therefore uses the supplied structured category.

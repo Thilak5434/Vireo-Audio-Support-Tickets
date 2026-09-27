@@ -1,0 +1,5 @@
+BUSINESS GOAL
+Baseline repeat contacts: 1516 of 11875 canonical tickets (12.8%).
+Target: reduce repeat contacts by 20% relative to this baseline.
+Estimated quarterly saving at Rs 290 per contact: Rs 14,655.
+This is a scenario estimate, not a guaranteed saving.
